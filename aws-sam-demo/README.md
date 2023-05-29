@@ -2,7 +2,7 @@
 ## Todo list
 - [x] Deploy example multi-worflow sam app
 - [x] Draw Diagram
-- [ ] Writting blog to explain things
+- [x] Writing blog. Check [here](https://blog.scienista.com/posts/aws/aws-sam-demo/aws-sam-demo)
 ## Application Diagram
 ![](./sam-app.png)
 ## Description
