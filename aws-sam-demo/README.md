@@ -1,6 +1,6 @@
 # aws-sam-demo
 ## Todo list
-- [ ] Deploy example DynamoDB integrated app
+- [ ] Deploy example multi-worflow sam app
 - [ ] Create pipeline
 - [ ] Writting blog
 ## Description
