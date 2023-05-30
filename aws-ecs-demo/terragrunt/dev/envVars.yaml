@@ -1,0 +1,13 @@
+env: "dev"
+vpcCIDR: "10.0.0.0/16"
+privateSubnets: 
+  - "10.0.1.0/24"
+  - "10.0.2.0/24"
+publicSubnets: 
+  - "10.0.3.0/24"
+  - "10.0.4.0/24"
+availabilityZones:
+  - "ap-southeast-1a"
+  - "ap-southeast-1b"
+imageURI: "public.ecr.aws/k2u4r9u5/nginx:v0.1.0"
+containerPort: 443
